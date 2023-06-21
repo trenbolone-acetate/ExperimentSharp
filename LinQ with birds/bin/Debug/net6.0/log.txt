@@ -1,0 +1,200 @@
+[20.06.2023 20:53:04]:
+Small white/gray Herring Gull from Laridae family. 
+It's 25cm in length, its wingspan is 60cm and its weight is 2kg
+
+[20.06.2023 20:53:04]:
+Large white/orange Mute Swan from Anatidae family. 
+It's 56cm in length, its wingspan is 79cm and its weight is 23kg
+
+[20.06.2023 20:53:04]:
+Small white/gray Ring-billed Gull from Laridae family. 
+It's 17cm in length, its wingspan is 44cm and its weight is 0,9kg
+
+[20.06.2023 21:53:48]:
+Small white/gray Herring Gull from Laridae family. 
+It's 25cm in length, its wingspan is 60cm and its weight is 2kg
+
+[20.06.2023 21:53:48]:
+Large white/orange Mute Swan from Anatidae family. 
+It's 56cm in length, its wingspan is 79cm and its weight is 23kg
+
+[20.06.2023 21:53:48]:
+Small white/gray Ring-billed Gull from Laridae family. 
+It's 17cm in length, its wingspan is 44cm and its weight is 0,9kg
+
+[21.06.2023 02:15:06]:
+Tiny brown/white American Robin from Turdidae family. 
+It's 10cm in length, its wingspan is 16cm and its weight is 2,7kg
+
+[21.06.2023 02:15:06]:
+Small brown/green Mallard from Anatidae family. 
+It's 23cm in length, its wingspan is 39cm and its weight is 2,7kg
+
+[21.06.2023 02:15:06]:
+Medium brown/white Bald Eagle from Accipitridae family. 
+It's 34cm in length, its wingspan is 90cm and its weight is 7,5kg
+
+[21.06.2023 02:15:06]:
+Tiny brown/white Peregrine Falcon from Falconidae family. 
+It's 14,5cm in length, its wingspan is 39,5cm and its weight is 1,5kg
+
+[21.06.2023 02:15:06]:
+Small brown/green Common Pheasant from Phasianidae family. 
+It's 28cm in length, its wingspan is 47cm and its weight is 2,8kg
+
+[21.06.2023 02:15:06]:
+Small brown/white Osprey from Pandionidae family. 
+It's 23,5cm in length, its wingspan is 71cm and its weight is 3,1kg
+
+[21.06.2023 02:15:06]:
+Small brown/white Red-tailed Hawk from Accipitridae family. 
+It's 18cm in length, its wingspan is 45cm and its weight is 2,5kg
+
+[21.06.2023 02:15:06]:
+Tiny brown/gray Mourning Dove from Columbidae family. 
+It's 12cm in length, its wingspan is 18cm and its weight is 0,5kg
+
+[21.06.2023 02:15:06]:
+Tiny brown/black Northern Flicker from Picidae family. 
+It's 11cm in length, its wingspan is 16,5cm and its weight is 3,3kg
+
+[21.06.2023 02:15:06]:
+Medium brown/green Wild Turkey from Phasianidae family. 
+It's 42cm in length, its wingspan is 54cm and its weight is 11kg
+
+[21.06.2023 02:15:06]:
+Small brown/green Wood Duck from Anatidae family. 
+It's 19cm in length, its wingspan is 28cm and its weight is 1kg
+
+[21.06.2023 02:15:06]:
+Tiny brown/white White-crowned Sparrow from Passerellidae family. 
+It's 7,5cm in length, its wingspan is 8,75cm and its weight is 0,8kg
+
+[21.06.2023 02:15:06]:
+Small brown/white Great Horned Owl from Strigidae family. 
+It's 18,5cm in length, its wingspan is 25cm and its weight is 2,2kg
+
+[21.06.2023 02:15:06]:
+Small brown/black Hooded Merganser from Anatidae family. 
+It's 16cm in length, its wingspan is 22cm and its weight is 1,5kg
+
+[21.06.2023 02:15:06]:
+Medium brown/white Falcon from Falconidae family. 
+It's 45cm in length, its wingspan is 85cm and its weight is 1kg
+
+[21.06.2023 02:56:24]:
+Tiny brown/white American Robin from Turdidae family. 
+It's 10cm in length, its wingspan is 16cm and its weight is 2,7kg
+
+[21.06.2023 02:56:24]:
+Small brown/green Mallard from Anatidae family. 
+It's 23cm in length, its wingspan is 39cm and its weight is 2,7kg
+
+[21.06.2023 02:56:24]:
+Medium brown/white Bald Eagle from Accipitridae family. 
+It's 34cm in length, its wingspan is 90cm and its weight is 7,5kg
+
+[21.06.2023 02:56:24]:
+Small brown/green Common Pheasant from Phasianidae family. 
+It's 28cm in length, its wingspan is 47cm and its weight is 2,8kg
+
+[21.06.2023 02:56:24]:
+Small brown/white Osprey from Pandionidae family. 
+It's 23,5cm in length, its wingspan is 71cm and its weight is 3,1kg
+
+[21.06.2023 02:56:24]:
+Tiny gray/black Rock Pigeon from Columbidae family. 
+It's 11cm in length, its wingspan is 24cm and its weight is 0,3kg
+
+[21.06.2023 02:56:24]:
+Tiny yellow/black American Goldfinch from Fringillidae family. 
+It's 4,25cm in length, its wingspan is 8,5cm and its weight is 0,5kg
+
+[21.06.2023 02:56:24]:
+Tiny brown/black Northern Flicker from Picidae family. 
+It's 11cm in length, its wingspan is 16,5cm and its weight is 3,3kg
+
+[21.06.2023 02:56:24]:
+Tiny black/white Black-capped Chickadee from Paridae family. 
+It's 4,75cm in length, its wingspan is 5,75cm and its weight is 0,3kg
+
+[21.06.2023 02:56:24]:
+Small black/white Common Loon from Gaviidae family. 
+It's 28cm in length, its wingspan is 48cm and its weight is 4,5kg
+
+[21.06.2023 02:56:24]:
+Small white/gray Herring Gull from Laridae family. 
+It's 25cm in length, its wingspan is 60cm and its weight is 2kg
+
+[21.06.2023 02:56:24]:
+Large white/orange Mute Swan from Anatidae family. 
+It's 56cm in length, its wingspan is 79cm and its weight is 23kg
+
+[21.06.2023 02:56:24]:
+Small white/gray Ring-billed Gull from Laridae family. 
+It's 17cm in length, its wingspan is 44cm and its weight is 0,9kg
+
+[21.06.2023 02:56:24]:
+Small black/gray Black Vulture from Cathartidae family. 
+It's 25cm in length, its wingspan is 60cm and its weight is 4,5kg
+
+[21.06.2023 02:56:24]:
+Tiny blue/red Barn Swallow from Hirundinidae family. 
+It's 6,75cm in length, its wingspan is 15,75cm and its weight is 0,6kg
+
+[21.06.2023 02:56:24]:
+Small brown/green Wood Duck from Anatidae family. 
+It's 19cm in length, its wingspan is 28cm and its weight is 1kg
+
+[21.06.2023 02:56:24]:
+Tiny brown/white White-crowned Sparrow from Passerellidae family. 
+It's 7,5cm in length, its wingspan is 8,75cm and its weight is 0,8kg
+
+[21.06.2023 02:56:24]:
+Tiny yellow/green Yellow Warbler from Parulidae family. 
+It's 4,5cm in length, its wingspan is 5,25cm and its weight is 0,4kg
+
+[21.06.2023 02:56:24]:
+Medium gray/black Sandhill Crane from Gruidae family. 
+It's 44cm in length, its wingspan is 60cm and its weight is 6,2kg
+
+[21.06.2023 02:56:24]:
+Medium brown/white Falcon from Falconidae family. 
+It's 45cm in length, its wingspan is 85cm and its weight is 1kg
+
+[21.06.2023 02:56:24]:
+Medium white/black Smew from Anatidae family. 
+It's 40cm in length, its wingspan is 60cm and its weight is 0,5kg
+
+[21.06.2023 02:56:24]:
+Large black/red Wattle currasow from Cracidae family. 
+It's 85cm in length, its wingspan is 50cm and its weight is 2,5kg
+
+[21.06.2023 02:56:24]:
+Medium green/black White-cheeked turaco from Musophagidae family. 
+It's 40cm in length, its wingspan is 30cm and its weight is 0,24kg
+
+[21.06.2023 13:11:29]:
+Tiny black/white Black-capped Chickadee from Paridae family. 
+It's 4,75cm in length, its wingspan is 5,75cm and its weight is 0,3kg
+
+[21.06.2023 13:11:29]:
+Small black/white Common Loon from Gaviidae family. 
+It's 28cm in length, its wingspan is 48cm and its weight is 4,5kg
+
+[21.06.2023 13:11:29]:
+Small black/gray Black Vulture from Cathartidae family. 
+It's 25cm in length, its wingspan is 60cm and its weight is 4,5kg
+
+[21.06.2023 13:11:29]:
+Large black/red Wattle currasow from Cracidae family. 
+It's 85cm in length, its wingspan is 50cm and its weight is 2,5kg
+
+[21.06.2023 13:11:29]:
+Medium black/orange Curl-crested Aracari from Ramphastidae family. 
+It's 44cm in length, its wingspan is 36cm and its weight is 0,22kg
+
+[21.06.2023 21:14:19]:
+Tiny brown/white American Robin from Turdidae family. 
+It's 10cm in length, its wingspan is 16cm and its weight is 2,7kg
+

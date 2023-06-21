@@ -1,0 +1,7 @@
+C:\Users\User-PC\Documents\GitHub\Praktika_Pohosian_108\LinQ with birds.exe
+C:\Users\User-PC\Documents\GitHub\Praktika_Pohosian_108\LinQ with birds.dll
+C:\Users\User-PC\Documents\GitHub\Praktika_Pohosian_108\LinQ with birds.runtimeconfig.json
+C:\Users\User-PC\Documents\GitHub\Praktika_Pohosian_108\LinQ with birds.pdb
+C:\Users\User-PC\Documents\GitHub\Praktika_Pohosian_108\Bogus.dll
+C:\Users\User-PC\Documents\GitHub\Praktika_Pohosian_108\Newtonsoft.Json.dll
+C:\Users\User-PC\Documents\GitHub\Praktika_Pohosian_108\LinQ with birds.deps.json

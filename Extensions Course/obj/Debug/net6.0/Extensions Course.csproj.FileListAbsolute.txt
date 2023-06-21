@@ -1,0 +1,18 @@
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\bin\Debug\net6.0\Extensions Course.exe
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\bin\Debug\net6.0\Extensions Course.deps.json
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\bin\Debug\net6.0\Extensions Course.runtimeconfig.json
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\bin\Debug\net6.0\Extensions Course.dll
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\bin\Debug\net6.0\Extensions Course.pdb
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\bin\Debug\net6.0\Common.dll
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\bin\Debug\net6.0\Common.pdb
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.csproj.AssemblyReference.cache
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.csproj.CopyComplete
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.dll
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\refint\Extensions Course.dll
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.pdb
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\Extensions Course.genruntimeconfig.cache
+C:\Users\User-PC\Desktop\игрыШарп\игра\Testing\Extensions Course\obj\Debug\net6.0\ref\Extensions Course.dll

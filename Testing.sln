@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ with birds", "LinQ with birds\LinQ with birds.csproj", "{4833866D-4EFC-4A55-B9F7-B70EAF542531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions Course", "Extensions Course\Extensions Course.csproj", "{08162A6F-DA68-4200-9AF6-CC6278C4F72C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{A6BCB17D-F1F1-428C-A6B5-0A469588D59D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extensions", "Extensions", "{8209FBE9-BC9D-4CBB-B8B1-42C68FB1F2D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BirdsAndUnit", "BirdsAndUnit", "{3CEDFC90-D352-44AF-9C98-B20A1EDD3D22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data structures c# generics", "Data structures c# generics", "{D091B9F9-EF58-4215-80C9-4817FF8440BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Structures", "Data Structures\Data Structures.csproj", "{8211477E-390E-4E54-AB30-06FD36EF7449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{6E029D26-529F-499E-9EE3-ACA85F832A63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{33E1C0D8-7930-4604-A1A4-5760179FFA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization\Serialization.csproj", "{FA3D6B10-6184-476A-9C27-3915FF2B63E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4833866D-4EFC-4A55-B9F7-B70EAF542531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4833866D-4EFC-4A55-B9F7-B70EAF542531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4833866D-4EFC-4A55-B9F7-B70EAF542531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4833866D-4EFC-4A55-B9F7-B70EAF542531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08162A6F-DA68-4200-9AF6-CC6278C4F72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08162A6F-DA68-4200-9AF6-CC6278C4F72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08162A6F-DA68-4200-9AF6-CC6278C4F72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08162A6F-DA68-4200-9AF6-CC6278C4F72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BCB17D-F1F1-428C-A6B5-0A469588D59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BCB17D-F1F1-428C-A6B5-0A469588D59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BCB17D-F1F1-428C-A6B5-0A469588D59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BCB17D-F1F1-428C-A6B5-0A469588D59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8211477E-390E-4E54-AB30-06FD36EF7449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8211477E-390E-4E54-AB30-06FD36EF7449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8211477E-390E-4E54-AB30-06FD36EF7449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8211477E-390E-4E54-AB30-06FD36EF7449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E029D26-529F-499E-9EE3-ACA85F832A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E029D26-529F-499E-9EE3-ACA85F832A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E029D26-529F-499E-9EE3-ACA85F832A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E029D26-529F-499E-9EE3-ACA85F832A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3D6B10-6184-476A-9C27-3915FF2B63E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3D6B10-6184-476A-9C27-3915FF2B63E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3D6B10-6184-476A-9C27-3915FF2B63E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3D6B10-6184-476A-9C27-3915FF2B63E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6BCB17D-F1F1-428C-A6B5-0A469588D59D} = {8209FBE9-BC9D-4CBB-B8B1-42C68FB1F2D9}
+		{08162A6F-DA68-4200-9AF6-CC6278C4F72C} = {8209FBE9-BC9D-4CBB-B8B1-42C68FB1F2D9}
+		{4833866D-4EFC-4A55-B9F7-B70EAF542531} = {3CEDFC90-D352-44AF-9C98-B20A1EDD3D22}
+		{8211477E-390E-4E54-AB30-06FD36EF7449} = {D091B9F9-EF58-4215-80C9-4817FF8440BD}
+		{6E029D26-529F-499E-9EE3-ACA85F832A63} = {3CEDFC90-D352-44AF-9C98-B20A1EDD3D22}
+		{FA3D6B10-6184-476A-9C27-3915FF2B63E7} = {33E1C0D8-7930-4604-A1A4-5760179FFA63}
+	EndGlobalSection
+EndGlobal

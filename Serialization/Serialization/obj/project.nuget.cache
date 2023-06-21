@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "raTYqgtZsrQlowKaPLWbpExsceXwFwcGPrE25nSvdBHQSXAENYahEpjefXhmAP7Nt2en/HKpVeOMGW8a2KTmYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\Serialization\\Serialization\\Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User-PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
