@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Su/sBwfzHh5UVWsnGAMtyTxZ02DEOzPur3F1AumFOck68cHYQGxck+bBnrO++RfM5iNWmS2v2rb9i/D4NSRtRA==",
+  "dgSpecHash": "nLu1skDS1D9CgezrnC5Aik4jKkcQsaWo3bmyKmfiprw4M8yByZP034ubC14juDDVg3pBHy2KzFCHQkifmyDGJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj",
+  "projectFilePath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User-PC\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\User-PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",

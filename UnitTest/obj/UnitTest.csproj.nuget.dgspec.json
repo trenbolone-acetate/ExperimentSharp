@@ -4,14 +4,14 @@
     "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj": {
+    "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj",
-        "projectName": "LinQ with birds",
-        "projectPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj",
+        "projectUniqueName": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj",
+        "projectName": "TheBirdWatcher",
+        "projectPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj",
         "packagesPath": "C:\\Users\\User-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\obj\\",
+        "outputPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj": {
-                "projectPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj"
+              "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj": {
+                "projectPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj"
               }
             }
           }

@@ -395,7 +395,7 @@
           }
         }
       },
-      "LinQ with birds/1.0.0": {
+      "TheBirdWatcher/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -403,10 +403,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
-          "bin/placeholder/LinQ with birds.dll": {}
+          "bin/placeholder/TheBirdWatcher.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LinQ with birds.dll": {}
+          "bin/placeholder/TheBirdWatcher.dll": {}
         }
       }
     }
@@ -1331,20 +1331,20 @@
         "version.txt"
       ]
     },
-    "LinQ with birds/1.0.0": {
+    "TheBirdWatcher/1.0.0": {
       "type": "project",
-      "path": "../LinQ with birds/LinQ with birds.csproj",
-      "msbuildProject": "../LinQ with birds/LinQ with birds.csproj"
+      "path": "../TheBirdWatcher/TheBirdWatcher.csproj",
+      "msbuildProject": "../TheBirdWatcher/TheBirdWatcher.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "LinQ with birds >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
       "NUnit3TestAdapter >= 4.2.1",
       "Newtonsoft.Json >= 13.0.3",
+      "TheBirdWatcher >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -1375,8 +1375,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj": {
-              "projectPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\LinQ with birds\\LinQ with birds.csproj"
+            "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj": {
+              "projectPath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\TheBirdWatcher\\TheBirdWatcher.csproj"
             }
           }
         }
