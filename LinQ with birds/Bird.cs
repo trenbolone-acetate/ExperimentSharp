@@ -55,54 +55,19 @@ public class Bird
     {
         Bird bird = new Bird();
 
-        Console.Write("Enter the bird's name: ");
-        bird.Name = Console.ReadLine();
-
-        Console.Write("Enter the bird's family: ");
-        bird.Family = Console.ReadLine();
-
-        Console.Write("Enter the bird's primary color: ");
-        bird.PrimaryColor = Console.ReadLine();
-
-        Console.Write("Enter the bird's secondary color: ");
-        bird.SecondaryColor = Console.ReadLine();
-
-        Console.Write("Enter the bird's length (in cm): ");
-        double length;
-        while (!double.TryParse(Console.ReadLine(), out length))
-        {
-            Console.WriteLine("Invalid input! Please enter a valid number for length.");
-            Console.Write("Enter the bird's length (in cm): ");
-        }
-        bird.Length = length;
-
-        Console.Write("Enter the bird's wingspan (in cm): ");
-        double wingspan;
-        while (!double.TryParse(Console.ReadLine(), out wingspan))
-        {
-            Console.WriteLine("Invalid input! Please enter a valid number for wingspan.");
-            Console.Write("Enter the bird's wingspan (in cm): ");
-        }
-        bird.Wingspan = wingspan;
-
-        Console.Write("Enter the bird's weight (in kg): ");
-        double weight;
-        while (!double.TryParse(Console.ReadLine(), out weight))
-        {
-            Console.WriteLine("Invalid input! Please enter a valid number for weight.");
-            Console.Write("Enter the bird's weight (in kg): ");
-        }
-        bird.Weight = weight;
-
-        Console.Write("Enter the bird's conservation status: ");
-        bird.ConservationStatus = Console.ReadLine();
-
-        Console.Write("Enter the bird's conservation code: ");
-        bird.ConservationCode = Console.ReadLine();
+        bird.Name = ReadString("Enter the bird's name: ");
+        bird.Family = ReadString("Enter the bird's family: ");
+        bird.PrimaryColor = ReadString("Enter the bird's primary color: ");
+        bird.SecondaryColor = ReadString("Enter the bird's secondary color: ");
+        bird.Length = ReadDouble("Enter the bird's length (in cm): ");
+        bird.Wingspan = ReadDouble("Enter the bird's wingspan (in cm): ");
+        bird.Weight = ReadDouble("Enter the bird's weight (in kg): ");
+        bird.ConservationStatus = ReadString("Enter the bird's conservation status: ");
+        bird.ConservationCode = ReadString("Enter the bird's conservation code: ");
 
         bird.SightingsList.Clear();
         Sighting.AddRandom(bird);
-        
+
         return bird;
     }
     public void PrintShortInfo()
@@ -124,28 +89,57 @@ public class Bird
     }
 
     private void SeeSightings()
+{
+    Console.WriteLine($"\nWant to see complete list of sightings of {Name}?\n\tY or N");
+
+    char seeSightings;
+    while (true)
     {
-        Console.WriteLine("\nWant to see complete list of sightings of {0}?\n\tY or N",Name);
-        char seeSightings = Console.ReadLine()!.ToCharArray().FirstOrDefault();
-        switch (seeSightings)
+        seeSightings = Console.ReadKey().KeyChar;
+        seeSightings = char.ToLower(seeSightings);
+
+        if (seeSightings == 'y' || seeSightings == 'n')
+            break;
+
+        Console.WriteLine("You should've typed Y or N! Try again\n");
+    }
+
+    if (seeSightings == 'y')
+    {
+        foreach (var sighting in SightingsList)
         {
-            case 'Y':
-            case 'y':
-            {
-                foreach (var sighting in SightingsList)
-                {
-                    sighting.PrintInfo(this);
-                }
-                return;
-            }
-            case 'N':
-            case 'n':
-                Console.WriteLine("Okay!");
-                break;
-            default:
-                Console.WriteLine("You should've typed Y or N! Try again\n");
-                SeeSightings();
-                break;
+            sighting.PrintInfo(this);
         }
+    }
+    else
+    {
+        Console.WriteLine("Okay!");
+    }
+}
+    
+    private static string ReadString(string message)
+    {
+        Console.Write(message);
+        return Console.ReadLine();
+    }
+
+    private static double ReadDouble(string message)
+    {
+        double value;
+        bool isValid = false;
+
+        do
+        {
+            Console.Write(message);
+            isValid = double.TryParse(Console.ReadLine(), out value);
+
+            if (!isValid)
+            {
+                Console.WriteLine("Invalid input! Please enter a valid number.");
+            }
+
+        } while (!isValid);
+
+        return value;
     }
 }
