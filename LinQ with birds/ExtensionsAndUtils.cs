@@ -8,10 +8,9 @@ public static class ExtensionsAndUtils
         birds.Add(Bird.AddBird());
         File.WriteAllText("data.json",JsonConvert.SerializeObject(birds));
     }
-    public static T RandomEnum<T>() where T : Enum
+    public static T RandomItem<T>(this List<T> items)
     {
-        T[] values = (T[])Enum.GetValues(typeof(T));
-        return values[random.Next(values.Length)];
+        return items[random.Next(items.Count)];
     }
     private static DateTime start = new(1980, 1, 1);
     private static int range = (DateTime.Today - start).Days; 

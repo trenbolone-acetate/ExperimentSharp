@@ -35,7 +35,7 @@ public class Sighting
         Faker faker = new Faker();
         string country = faker.Address.Country();
         string city = faker.Address.City();
-        string climate =  $"{ExtensionsAndUtils.RandomEnum<Collections.Climate>()}";
+        string climate =  $"{Collections.climates.RandomItem()}";
         return new Place(country, city, climate);
     }
 

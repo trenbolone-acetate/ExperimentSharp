@@ -1,14 +1,14 @@
 ﻿namespace Testing;
 public class Collections
 {
-    public enum Climate
+    public static readonly List<string> climates = new()
     {
-        Tropical,
-        Dry,
-        Temperate,
-        Continental,
-        Polar
-    }
+        "Tropical",
+        "Dry",
+        "Temperate",
+        "Continental",
+        "Polar"
+    };
     public static readonly List<string> commands = new()
     {
         "-help",
