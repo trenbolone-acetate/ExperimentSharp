@@ -13,6 +13,7 @@
           "NUnit.Analyzers": "3.3.0",
           "NUnit3TestAdapter": "4.2.1",
           "Newtonsoft.Json": "13.0.3",
+          "TheBirdWatcher": "1.0.0",
           "coverlet.collector": "3.1.2"
         },
         "runtime": {
@@ -325,13 +326,13 @@
       "NUnit.Analyzers/3.3.0": {},
       "NUnit3TestAdapter/4.2.1": {},
       "System.Reflection.Metadata/1.6.0": {},
-      "LinQ with birds/1.0.0": {
+      "TheBirdWatcher/1.0.0": {
         "dependencies": {
           "Bogus": "34.0.2",
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "LinQ with birds.dll": {}
+          "TheBirdWatcher.dll": {}
         }
       }
     }
@@ -440,7 +441,7 @@
       "path": "system.reflection.metadata/1.6.0",
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
     },
-    "LinQ with birds/1.0.0": {
+    "TheBirdWatcher/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -5,11 +5,16 @@ namespace UnitTest;
 public class Tests
 {
     private const string DeserializationPath = @"C:\Users\User-PC\Desktop\sharpFun\Testing\Testing\TheBirdWatcher\bin\Debug\net6.0\data.json";
-    private readonly List<Bird>? birds = JsonConvert.DeserializeObject<List<Bird>>(File.ReadAllText(DeserializationPath));
+    private List<Bird>? birds;
 
     [SetUp]
     public void Setup()
     {
+        birds = JsonConvert.DeserializeObject<List<Bird>>(File.ReadAllText(DeserializationPath));
+    }
+    private string[] GetLines(string output)
+    {
+        return output.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
     }
 
     [Test]
@@ -24,7 +29,7 @@ public class Tests
 
         Search.SearchForBird(birds);
         string output = stringWriter.ToString();
-        string[] lines = output.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        string[] lines = GetLines(output);
         string lastLine = lines.LastOrDefault();
         Assert.That(lastLine, Is.EqualTo("Nothing found!"));
     }
@@ -40,7 +45,7 @@ public class Tests
 
         Search.SearchForBird(birds);
         string output = stringWriter.ToString();
-        string[] lines = output.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        string[] lines = GetLines(output);
         string finalOutput = lines.LastOrDefault();
         using StringWriter shortInfoStringWriter = new StringWriter();
         Console.SetOut(shortInfoStringWriter);
@@ -60,7 +65,7 @@ public class Tests
 
         CommandHandler.HandleCommand();
         string output = stringWriter.ToString();
-        string[] lines = output.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        string[] lines = GetLines(output);
         string[] finalOutput = lines.Where(line => line.StartsWith('\t')).ToArray();
         for (var index = 0; index < finalOutput.Length; index++) {
             finalOutput[index] = finalOutput[index].Trim('\t');
