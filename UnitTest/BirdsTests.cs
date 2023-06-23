@@ -5,7 +5,7 @@ namespace UnitTest;
 public class Tests
 {
     private const string DeserializationPath = @"C:\Users\User-PC\Desktop\sharpFun\Testing\Testing\LinQ with birds\bin\Debug\net6.0\data.json";
-    private readonly List<Bird> birds = JsonConvert.DeserializeObject<List<Bird>>(File.ReadAllText(DeserializationPath));
+    private readonly List<Bird>? birds = JsonConvert.DeserializeObject<List<Bird>>(File.ReadAllText(DeserializationPath));
 
     [SetUp]
     public void Setup()

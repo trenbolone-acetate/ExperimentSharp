@@ -3,7 +3,7 @@
 public static class ExtensionsAndUtils
 {
     private static Random random = new Random();
-    public static void Add(this List<Bird> birds)
+    public static void Add(this List<Bird>? birds)
     {
         birds.Add(Bird.AddBird());
         File.WriteAllText("data.json",JsonConvert.SerializeObject(birds));

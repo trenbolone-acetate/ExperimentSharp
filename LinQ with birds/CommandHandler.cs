@@ -10,7 +10,7 @@
             while (isQuitting)
             {
                 Console.WriteLine("Enter your command:\ntype -help to get the list of all commands");
-                string userString = Console.ReadLine()?.ToLower();
+                string? userString = Console.ReadLine()?.ToLower();
 
                 switch (userString)
                 {

@@ -126,7 +126,7 @@ public class Bird
     private static double ReadDouble(string message)
     {
         double value;
-        bool isValid = false;
+        bool isValid;
 
         do
         {

@@ -1,5 +1,5 @@
 ﻿namespace Testing;
-public class Collections
+public static class Collections
 {
     public static readonly List<string> climates = new()
     {

@@ -2,7 +2,7 @@
 
 public static class Search
 {
-    public static void SearchForBird(List<Bird> birds)
+    public static void SearchForBird(List<Bird>? birds)
         {
             while (true)
             {

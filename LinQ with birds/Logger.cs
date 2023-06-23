@@ -1,4 +1,4 @@
-﻿using Testing;
+﻿namespace Testing;
 
 public static class Logger
 {
@@ -13,9 +13,7 @@ public static class Logger
 
     private static void EnsureLogFileExists()
     {
-        if (!File.Exists(LogFilePath))
-        {
-            using (File.Create(LogFilePath)) { }
-        }
+        if (File.Exists(LogFilePath)) return;
+        using (File.Create(LogFilePath)) { }
     }
 }

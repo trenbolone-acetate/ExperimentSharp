@@ -2,8 +2,6 @@
 [Serializable]
 public class Sighting
 {
-    private static readonly Random random = new();
-
     [JsonProperty("sighting_date")]
     private DateTime SightingDate { get; set; }
     [JsonProperty("observer_firstname")]
@@ -47,7 +45,7 @@ public class Sighting
 
     public void PrintInfo(Bird bird)
     {
-        string text = string.Empty;
+        string text;
         using (StringWriter stringWriter = new StringWriter())
         {
             Console.SetOut(stringWriter);
