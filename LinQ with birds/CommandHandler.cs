@@ -1,6 +1,6 @@
 ﻿namespace Testing
 {
-    using static ListExtensions;
+    using static Extensions;
 
     public static class CommandHandler
     {
@@ -29,7 +29,7 @@
                         Search.SearchForBird(Program.Birds);
                         break;
                     case "-add bird":
-                        Program.Birds.AddItem();
+                        Program.Birds.Add();
                         break;
                     case "-quit":
                         isQuitting = false;

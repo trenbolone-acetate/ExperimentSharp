@@ -2,15 +2,6 @@
 [Serializable]
 public class Place
 {
-    [JsonIgnore]
-    public static readonly string[] Climates =
-    {
-        "Tropical",
-        "Dry",
-        "Temperate",
-        "Continental",
-        "Polar"
-    };
     [JsonProperty("country")]
     private string Country { get; set; }
     [JsonProperty("city")]
@@ -18,11 +9,11 @@ public class Place
     [JsonProperty("climate")]
     private string Climate { get; set; }
 
-    public Place(string country, string city, int chooseClimate)
+    public Place(string country, string city, string chosenClimate)
     {
         Country = country;
         City = city;
-        Climate = Climates[chooseClimate];
+        Climate = chosenClimate;
     }
 
     public void PrintInfo()
