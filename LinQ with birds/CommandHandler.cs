@@ -4,14 +4,6 @@
 
     public static class CommandHandler
     {
-    public static readonly List<string> commands = new()
-        {
-            "-help",
-            "-search",
-            "-add bird",
-            "-quit"
-        };
-
         public static void HandleCommand()
         {
             bool isQuitting = true;
@@ -44,7 +36,7 @@
         private static void PrintCommands()
         {
             Console.WriteLine("Commands:");
-            foreach (var command in commands)
+            foreach (var command in Collections.commands)
             {
                 Console.WriteLine($"\t{command}");
             }
