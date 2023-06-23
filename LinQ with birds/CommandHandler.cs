@@ -1,6 +1,6 @@
 ﻿namespace Testing
 {
-    using static Extensions;
+    using static ExtensionsAndUtils;
 
     public static class CommandHandler
     {

@@ -35,20 +35,13 @@ public class Sighting
         Faker faker = new Faker();
         string country = faker.Address.Country();
         string city = faker.Address.City();
-        string climate =  $"{Extensions.RandomEnum<Enums.Climate>()}";
+        string climate =  $"{ExtensionsAndUtils.RandomEnum<Enums.Climate>()}";
         return new Place(country, city, climate);
     }
 
     private static DateTime RandDateTime()
     {
-        int year = random.Next(1980, 2023);
-        int month = random.Next(1, 13);
-        int day = random.Next(1, DateTime.DaysInMonth(year, month) + 1);
-        int hour = random.Next(24);
-        int minute = random.Next(60);
-        int second = random.Next(60);
-
-        DateTime randomDateTime = new DateTime(year, month, day, hour, minute, second);
+        DateTime randomDateTime = ExtensionsAndUtils.RandomDate();
         return randomDateTime;
     }
 
