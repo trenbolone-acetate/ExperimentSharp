@@ -76,7 +76,7 @@ public class Tests
         
         using StringWriter shortInfoStringWriter = new StringWriter();
         Console.SetOut(shortInfoStringWriter);
-        foreach (var command in CommandHandler.commands)
+        foreach (var command in Collections.commands)
         {
             Console.WriteLine(command);
         }
