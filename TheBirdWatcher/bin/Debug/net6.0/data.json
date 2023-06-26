@@ -1,1 +1,806 @@
-	[{"name":"American Robin","family":"Turdidae","primary_color":"Brown","secondary_color":"White","length":10.0,"wingspan":16.0,"weight":2.7,"SightingsList":[{"sighting_date":"1992-08-23T06:57:44","observer_firstname":"Lon","observer_lastname":"Waelchi","place":{"country":"Rwanda","city":"Boylestad","climate":"Temperate"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Mallard","family":"Anatidae","primary_color":"Brown","secondary_color":"Green","length":23.0,"wingspan":39.0,"weight":2.7,"SightingsList":[{"sighting_date":"1983-02-24T17:00:21","observer_firstname":"Fletcher","observer_lastname":"Toy","place":{"country":"Antigua and Barbuda","city":"West Monty","climate":"Tropical"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Bald Eagle","family":"Accipitridae","primary_color":"Brown","secondary_color":"White","length":34.0,"wingspan":90.0,"weight":7.5,"SightingsList":[{"sighting_date":"2010-05-02T07:50:22","observer_firstname":"Fabiola","observer_lastname":"Schmitt","place":{"country":"Uzbekistan","city":"Bartolettistad","climate":"Tropical"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Northern Cardinal","family":"Cardinalidae","primary_color":"Red","secondary_color":"Black","length":8.25,"wingspan":9.0,"weight":1.5,"SightingsList":[{"sighting_date":"1995-10-29T03:45:47","observer_firstname":"Bertrand","observer_lastname":"Hegmann","place":{"country":"Finland","city":"East Bennie","climate":"Polar"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Blue Jay","family":"Corvidae","primary_color":"Blue","secondary_color":"White","length":11.75,"wingspan":15.75,"weight":2.5,"SightingsList":[{"sighting_date":"2017-10-18T00:20:15","observer_firstname":"Brennon","observer_lastname":"Doyle","place":{"country":"Papua New Guinea","city":"Langworthshire","climate":"Temperate"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Peregrine Falcon","family":"Falconidae","primary_color":"Brown","secondary_color":"White","length":14.5,"wingspan":39.5,"weight":1.5,"SightingsList":[{"sighting_date":"2001-05-03T11:27:48","observer_firstname":"Arlene","observer_lastname":"Hand","place":{"country":"Malawi","city":"Swiftchester","climate":"Dry"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Common Pheasant","family":"Phasianidae","primary_color":"Brown","secondary_color":"Green","length":28.0,"wingspan":47.0,"weight":2.8,"SightingsList":[{"sighting_date":"2007-12-26T09:41:22","observer_firstname":"Jacquelyn","observer_lastname":"Tremblay","place":{"country":"Benin","city":"West Christopheton","climate":"Continental"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Osprey","family":"Pandionidae","primary_color":"Brown","secondary_color":"White","length":23.5,"wingspan":71.0,"weight":3.1,"SightingsList":[{"sighting_date":"2006-08-02T23:08:22","observer_firstname":"Theresia","observer_lastname":"Schroeder","place":{"country":"Antigua and Barbuda","city":"Roxaneburgh","climate":"Continental"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Rock Pigeon","family":"Columbidae","primary_color":"Gray","secondary_color":"Black","length":11.0,"wingspan":24.0,"weight":0.3,"SightingsList":[{"sighting_date":"2007-07-12T07:39:19","observer_firstname":"Fabian","observer_lastname":"McCullough","place":{"country":"Guyana","city":"Blandaburgh","climate":"Continental"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Red-tailed Hawk","family":"Accipitridae","primary_color":"Brown","secondary_color":"White","length":18.0,"wingspan":45.0,"weight":2.5,"SightingsList":[{"sighting_date":"2005-11-02T15:40:31","observer_firstname":"Marc","observer_lastname":"Smith","place":{"country":"Svalbard & Jan Mayen Islands","city":"Estrellatown","climate":"Polar"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"American Goldfinch","family":"Fringillidae","primary_color":"Yellow","secondary_color":"Black","length":4.25,"wingspan":8.5,"weight":0.5,"SightingsList":[{"sighting_date":"2006-08-10T02:29:02","observer_firstname":"Ralph","observer_lastname":"Stokes","place":{"country":"Bulgaria","city":"East Nicholestad","climate":"Continental"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Ruby-throated Hummingbird","family":"Trochilidae","primary_color":"Green","secondary_color":"Red","length":3.25,"wingspan":4.25,"weight":0.1,"SightingsList":[{"sighting_date":"2007-07-11T12:21:06","observer_firstname":"Ivory","observer_lastname":"Koelpin","place":{"country":"Mauritania","city":"East Tressachester","climate":"Temperate"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Mourning Dove","family":"Columbidae","primary_color":"Brown","secondary_color":"Gray","length":12.0,"wingspan":18.0,"weight":0.5,"SightingsList":[{"sighting_date":"1991-05-12T18:04:11","observer_firstname":"Coralie","observer_lastname":"Bradtke","place":{"country":"Faroe Islands","city":"Bednarview","climate":"Temperate"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Northern Flicker","family":"Picidae","primary_color":"Brown","secondary_color":"Black","length":11.0,"wingspan":16.5,"weight":3.3,"SightingsList":[{"sighting_date":"2020-08-20T00:45:39","observer_firstname":"Ignatius","observer_lastname":"Anderson","place":{"country":"Benin","city":"Denesikburgh","climate":"Temperate"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Tufted Titmouse","family":"Paridae","primary_color":"Gray","secondary_color":"White","length":5.5,"wingspan":6.75,"weight":0.5,"SightingsList":[{"sighting_date":"1991-01-14T08:26:25","observer_firstname":"Americo","observer_lastname":"Parisian","place":{"country":"Angola","city":"Dwightfort","climate":"Polar"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Black-capped Chickadee","family":"Paridae","primary_color":"Black","secondary_color":"White","length":4.75,"wingspan":5.75,"weight":0.3,"SightingsList":[{"sighting_date":"1993-09-25T16:52:44","observer_firstname":"Dorothy","observer_lastname":"Hahn","place":{"country":"Nicaragua","city":"Markusborough","climate":"Continental"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Wild Turkey","family":"Phasianidae","primary_color":"Brown","secondary_color":"Green","length":42.0,"wingspan":54.0,"weight":11.0,"SightingsList":[{"sighting_date":"2011-10-20T07:47:25","observer_firstname":"Augusta","observer_lastname":"Schowalter","place":{"country":"Nicaragua","city":"Ziemehaven","climate":"Continental"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Common Loon","family":"Gaviidae","primary_color":"Black","secondary_color":"White","length":28.0,"wingspan":48.0,"weight":4.5,"SightingsList":[{"sighting_date":"1995-02-11T23:14:49","observer_firstname":"Dewitt","observer_lastname":"Brekke","place":{"country":"Equatorial Guinea","city":"Lake Santiagofurt","climate":"Polar"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Herring Gull","family":"Laridae","primary_color":"White","secondary_color":"Gray","length":25.0,"wingspan":60.0,"weight":2.0,"SightingsList":[{"sighting_date":"1986-04-16T16:40:35","observer_firstname":"Reymundo","observer_lastname":"Luettgen","place":{"country":"Papua New Guinea","city":"New Blakeshire","climate":"Continental"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Mute Swan","family":"Anatidae","primary_color":"White","secondary_color":"Orange","length":56.0,"wingspan":79.0,"weight":23.0,"SightingsList":[{"sighting_date":"1984-05-26T21:31:53","observer_firstname":"Hilton","observer_lastname":"Gorczany","place":{"country":"Cook Islands","city":"Port Carleyside","climate":"Temperate"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Ring-billed Gull","family":"Laridae","primary_color":"White","secondary_color":"Gray","length":17.0,"wingspan":44.0,"weight":0.9,"SightingsList":[{"sighting_date":"2016-09-08T16:36:04","observer_firstname":"Davonte","observer_lastname":"Howe","place":{"country":"Sudan","city":"South Stanford","climate":"Temperate"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Black Vulture","family":"Cathartidae","primary_color":"Black","secondary_color":"Gray","length":25.0,"wingspan":60.0,"weight":4.5,"SightingsList":[{"sighting_date":"1985-04-02T07:09:07","observer_firstname":"Rosemarie","observer_lastname":"Jones","place":{"country":"France","city":"Brekkeside","climate":"Polar"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Barn Swallow","family":"Hirundinidae","primary_color":"Blue","secondary_color":"Red","length":6.75,"wingspan":15.75,"weight":0.6,"SightingsList":[{"sighting_date":"1992-02-25T07:54:47","observer_firstname":"Rodrick","observer_lastname":"Ebert","place":{"country":"El Salvador","city":"New Adrienne","climate":"Dry"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Wood Duck","family":"Anatidae","primary_color":"Brown","secondary_color":"Green","length":19.0,"wingspan":28.0,"weight":1.0,"SightingsList":[{"sighting_date":"2012-05-07T20:12:32","observer_firstname":"Gillian","observer_lastname":"Cruickshank","place":{"country":"Bahamas","city":"Hoppehaven","climate":"Tropical"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Great Blue Heron","family":"Ardeidae","primary_color":"Blue","secondary_color":"Gray","length":46.0,"wingspan":72.0,"weight":5.5,"SightingsList":[{"sighting_date":"2022-10-28T21:10:23","observer_firstname":"Felipe","observer_lastname":"Kunde","place":{"country":"Guyana","city":"Lake Bell","climate":"Dry"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"White-crowned Sparrow","family":"Passerellidae","primary_color":"Brown","secondary_color":"White","length":7.5,"wingspan":8.75,"weight":0.8,"SightingsList":[{"sighting_date":"2007-11-30T02:21:38","observer_firstname":"Yessenia","observer_lastname":"Vandervort","place":{"country":"Botswana","city":"Pricefurt","climate":"Polar"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Great Horned Owl","family":"Strigidae","primary_color":"Brown","secondary_color":"White","length":18.5,"wingspan":25.0,"weight":2.2,"SightingsList":[{"sighting_date":"2007-09-07T02:57:02","observer_firstname":"Catharine","observer_lastname":"Blick","place":{"country":"Hungary","city":"Hartmannton","climate":"Tropical"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Yellow Warbler","family":"Parulidae","primary_color":"Yellow","secondary_color":"Green","length":4.5,"wingspan":5.25,"weight":0.4,"SightingsList":[{"sighting_date":"1980-11-14T22:24:31","observer_firstname":"Horace","observer_lastname":"Davis","place":{"country":"Sierra Leone","city":"Austinmouth","climate":"Tropical"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Hooded Merganser","family":"Anatidae","primary_color":"Brown","secondary_color":"Black","length":16.0,"wingspan":22.0,"weight":1.5,"SightingsList":[{"sighting_date":"1994-09-19T11:36:55","observer_firstname":"Precious","observer_lastname":"Moore","place":{"country":"British Indian Ocean Territory (Chagos Archipelago)","city":"North Chasityside","climate":"Continental"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"Sandhill Crane","family":"Gruidae","primary_color":"Gray","secondary_color":"Black","length":44.0,"wingspan":60.0,"weight":6.2,"SightingsList":[{"sighting_date":"2012-07-21T04:38:59","observer_firstname":"Trevor","observer_lastname":"Kohler","place":{"country":"United Arab Emirates","city":"Lake Edmond","climate":"Polar"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Falcon","family":"Falconidae","primary_color":"Brown","secondary_color":"White","length":45.0,"wingspan":85.0,"weight":1.0,"SightingsList":[{"sighting_date":"2020-12-23T10:08:58","observer_firstname":"Edmund","observer_lastname":"Pouros","place":{"country":"Dominica","city":"North Gladysburgh","climate":"Dry"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Smew","family":"Anatidae","primary_color":"White","secondary_color":"black","length":40.0,"wingspan":60.0,"weight":0.5,"SightingsList":[{"sighting_date":"2008-06-16T08:39:17","observer_firstname":"Kirk","observer_lastname":"Satterfield","place":{"country":"Oman","city":"Port Annabellburgh","climate":"Polar"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Wattle currasow","family":"Cracidae","primary_color":"black","secondary_color":"Red","length":85.0,"wingspan":50.0,"weight":2.5,"SightingsList":[{"sighting_date":"2011-06-24T14:43:16","observer_firstname":"Maximillian","observer_lastname":"Wiza","place":{"country":"Iceland","city":"Bashirianmouth","climate":"Tropical"}}],"conservation_status":"Endangered","conservation_code":"EN"},{"name":"Curl-crested Aracari","family":"Ramphastidae","primary_color":"Black","secondary_color":"Orange","length":44.0,"wingspan":36.0,"weight":0.22,"SightingsList":[{"sighting_date":"1999-10-16T00:07:28","observer_firstname":"Kenyon","observer_lastname":"Padberg","place":{"country":"Lebanon","city":"Arvidside","climate":"Tropical"}}],"conservation_status":"Threatened","conservation_code":"TR"},{"name":"White-cheeked turaco","family":"Musophagidae","primary_color":"Green","secondary_color":"Black","length":40.0,"wingspan":30.0,"weight":0.24,"SightingsList":[{"sighting_date":"1995-12-27T09:12:09","observer_firstname":"Katarina","observer_lastname":"Funk","place":{"country":"Algeria","city":"East Eliezerfurt","climate":"Dry"}}],"conservation_status":"Endangered","conservation_code":"EN"}]
+[
+  {
+    "name": "American Robin",
+    "family": "Turdidae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 10.0,
+    "wingspan": 16.0,
+    "weight": 2.7,
+    "SightingsList": [
+      {
+        "sighting_date": "1992-08-23T06:57:44",
+        "observer_firstname": "Lon",
+        "observer_lastname": "Waelchi",
+        "place": {
+          "country": "Rwanda",
+          "city": "Boylestad",
+          "climate": "Temperate"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Mallard",
+    "family": "Anatidae",
+    "primary_color": "Brown",
+    "secondary_color": "Green",
+    "length": 23.0,
+    "wingspan": 39.0,
+    "weight": 2.7,
+    "SightingsList": [
+      {
+        "sighting_date": "1983-02-24T17:00:21",
+        "observer_firstname": "Fletcher",
+        "observer_lastname": "Toy",
+        "place": {
+          "country": "Antigua and Barbuda",
+          "city": "West Monty",
+          "climate": "Tropical"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Bald Eagle",
+    "family": "Accipitridae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 34.0,
+    "wingspan": 90.0,
+    "weight": 7.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2010-05-02T07:50:22",
+        "observer_firstname": "Fabiola",
+        "observer_lastname": "Schmitt",
+        "place": {
+          "country": "Uzbekistan",
+          "city": "Bartolettistad",
+          "climate": "Tropical"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Northern Cardinal",
+    "family": "Cardinalidae",
+    "primary_color": "Red",
+    "secondary_color": "Black",
+    "length": 8.25,
+    "wingspan": 9.0,
+    "weight": 1.5,
+    "SightingsList": [
+      {
+        "sighting_date": "1995-10-29T03:45:47",
+        "observer_firstname": "Bertrand",
+        "observer_lastname": "Hegmann",
+        "place": {
+          "country": "Finland",
+          "city": "East Bennie",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Blue Jay",
+    "family": "Corvidae",
+    "primary_color": "Blue",
+    "secondary_color": "White",
+    "length": 11.75,
+    "wingspan": 15.75,
+    "weight": 2.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2017-10-18T00:20:15",
+        "observer_firstname": "Brennon",
+        "observer_lastname": "Doyle",
+        "place": {
+          "country": "Papua New Guinea",
+          "city": "Langworthshire",
+          "climate": "Temperate"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Peregrine Falcon",
+    "family": "Falconidae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 14.5,
+    "wingspan": 39.5,
+    "weight": 1.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2001-05-03T11:27:48",
+        "observer_firstname": "Arlene",
+        "observer_lastname": "Hand",
+        "place": {
+          "country": "Malawi",
+          "city": "Swiftchester",
+          "climate": "Dry"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Common Pheasant",
+    "family": "Phasianidae",
+    "primary_color": "Brown",
+    "secondary_color": "Green",
+    "length": 28.0,
+    "wingspan": 47.0,
+    "weight": 2.8,
+    "SightingsList": [
+      {
+        "sighting_date": "2007-12-26T09:41:22",
+        "observer_firstname": "Jacquelyn",
+        "observer_lastname": "Tremblay",
+        "place": {
+          "country": "Benin",
+          "city": "West Christopheton",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Osprey",
+    "family": "Pandionidae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 23.5,
+    "wingspan": 71.0,
+    "weight": 3.1,
+    "SightingsList": [
+      {
+        "sighting_date": "2006-08-02T23:08:22",
+        "observer_firstname": "Theresia",
+        "observer_lastname": "Schroeder",
+        "place": {
+          "country": "Antigua and Barbuda",
+          "city": "Roxaneburgh",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Rock Pigeon",
+    "family": "Columbidae",
+    "primary_color": "Gray",
+    "secondary_color": "Black",
+    "length": 11.0,
+    "wingspan": 24.0,
+    "weight": 0.3,
+    "SightingsList": [
+      {
+        "sighting_date": "2007-07-12T07:39:19",
+        "observer_firstname": "Fabian",
+        "observer_lastname": "McCullough",
+        "place": {
+          "country": "Guyana",
+          "city": "Blandaburgh",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Red-tailed Hawk",
+    "family": "Accipitridae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 18.0,
+    "wingspan": 45.0,
+    "weight": 2.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2005-11-02T15:40:31",
+        "observer_firstname": "Marc",
+        "observer_lastname": "Smith",
+        "place": {
+          "country": "Svalbard & Jan Mayen Islands",
+          "city": "Estrellatown",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "American Goldfinch",
+    "family": "Fringillidae",
+    "primary_color": "Yellow",
+    "secondary_color": "Black",
+    "length": 4.25,
+    "wingspan": 8.5,
+    "weight": 0.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2006-08-10T02:29:02",
+        "observer_firstname": "Ralph",
+        "observer_lastname": "Stokes",
+        "place": {
+          "country": "Bulgaria",
+          "city": "East Nicholestad",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Ruby-throated Hummingbird",
+    "family": "Trochilidae",
+    "primary_color": "Green",
+    "secondary_color": "Red",
+    "length": 3.25,
+    "wingspan": 4.25,
+    "weight": 0.1,
+    "SightingsList": [
+      {
+        "sighting_date": "2007-07-11T12:21:06",
+        "observer_firstname": "Ivory",
+        "observer_lastname": "Koelpin",
+        "place": {
+          "country": "Mauritania",
+          "city": "East Tressachester",
+          "climate": "Temperate"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Mourning Dove",
+    "family": "Columbidae",
+    "primary_color": "Brown",
+    "secondary_color": "Gray",
+    "length": 12.0,
+    "wingspan": 18.0,
+    "weight": 0.5,
+    "SightingsList": [
+      {
+        "sighting_date": "1991-05-12T18:04:11",
+        "observer_firstname": "Coralie",
+        "observer_lastname": "Bradtke",
+        "place": {
+          "country": "Faroe Islands",
+          "city": "Bednarview",
+          "climate": "Temperate"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Northern Flicker",
+    "family": "Picidae",
+    "primary_color": "Brown",
+    "secondary_color": "Black",
+    "length": 11.0,
+    "wingspan": 16.5,
+    "weight": 3.3,
+    "SightingsList": [
+      {
+        "sighting_date": "2020-08-20T00:45:39",
+        "observer_firstname": "Ignatius",
+        "observer_lastname": "Anderson",
+        "place": {
+          "country": "Benin",
+          "city": "Denesikburgh",
+          "climate": "Temperate"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Tufted Titmouse",
+    "family": "Paridae",
+    "primary_color": "Gray",
+    "secondary_color": "White",
+    "length": 5.5,
+    "wingspan": 6.75,
+    "weight": 0.5,
+    "SightingsList": [
+      {
+        "sighting_date": "1991-01-14T08:26:25",
+        "observer_firstname": "Americo",
+        "observer_lastname": "Parisian",
+        "place": {
+          "country": "Angola",
+          "city": "Dwightfort",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Black-capped Chickadee",
+    "family": "Paridae",
+    "primary_color": "Black",
+    "secondary_color": "White",
+    "length": 4.75,
+    "wingspan": 5.75,
+    "weight": 0.3,
+    "SightingsList": [
+      {
+        "sighting_date": "1993-09-25T16:52:44",
+        "observer_firstname": "Dorothy",
+        "observer_lastname": "Hahn",
+        "place": {
+          "country": "Nicaragua",
+          "city": "Markusborough",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Wild Turkey",
+    "family": "Phasianidae",
+    "primary_color": "Brown",
+    "secondary_color": "Green",
+    "length": 42.0,
+    "wingspan": 54.0,
+    "weight": 11.0,
+    "SightingsList": [
+      {
+        "sighting_date": "2011-10-20T07:47:25",
+        "observer_firstname": "Augusta",
+        "observer_lastname": "Schowalter",
+        "place": {
+          "country": "Nicaragua",
+          "city": "Ziemehaven",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Common Loon",
+    "family": "Gaviidae",
+    "primary_color": "Black",
+    "secondary_color": "White",
+    "length": 28.0,
+    "wingspan": 48.0,
+    "weight": 4.5,
+    "SightingsList": [
+      {
+        "sighting_date": "1995-02-11T23:14:49",
+        "observer_firstname": "Dewitt",
+        "observer_lastname": "Brekke",
+        "place": {
+          "country": "Equatorial Guinea",
+          "city": "Lake Santiagofurt",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Herring Gull",
+    "family": "Laridae",
+    "primary_color": "White",
+    "secondary_color": "Gray",
+    "length": 25.0,
+    "wingspan": 60.0,
+    "weight": 2.0,
+    "SightingsList": [
+      {
+        "sighting_date": "1986-04-16T16:40:35",
+        "observer_firstname": "Reymundo",
+        "observer_lastname": "Luettgen",
+        "place": {
+          "country": "Papua New Guinea",
+          "city": "New Blakeshire",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Mute Swan",
+    "family": "Anatidae",
+    "primary_color": "White",
+    "secondary_color": "Orange",
+    "length": 56.0,
+    "wingspan": 79.0,
+    "weight": 23.0,
+    "SightingsList": [
+      {
+        "sighting_date": "1984-05-26T21:31:53",
+        "observer_firstname": "Hilton",
+        "observer_lastname": "Gorczany",
+        "place": {
+          "country": "Cook Islands",
+          "city": "Port Carleyside",
+          "climate": "Temperate"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Ring-billed Gull",
+    "family": "Laridae",
+    "primary_color": "White",
+    "secondary_color": "Gray",
+    "length": 17.0,
+    "wingspan": 44.0,
+    "weight": 0.9,
+    "SightingsList": [
+      {
+        "sighting_date": "2016-09-08T16:36:04",
+        "observer_firstname": "Davonte",
+        "observer_lastname": "Howe",
+        "place": {
+          "country": "Sudan",
+          "city": "South Stanford",
+          "climate": "Temperate"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Black Vulture",
+    "family": "Cathartidae",
+    "primary_color": "Black",
+    "secondary_color": "Gray",
+    "length": 25.0,
+    "wingspan": 60.0,
+    "weight": 4.5,
+    "SightingsList": [
+      {
+        "sighting_date": "1985-04-02T07:09:07",
+        "observer_firstname": "Rosemarie",
+        "observer_lastname": "Jones",
+        "place": {
+          "country": "France",
+          "city": "Brekkeside",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Barn Swallow",
+    "family": "Hirundinidae",
+    "primary_color": "Blue",
+    "secondary_color": "Red",
+    "length": 6.75,
+    "wingspan": 15.75,
+    "weight": 0.6,
+    "SightingsList": [
+      {
+        "sighting_date": "1992-02-25T07:54:47",
+        "observer_firstname": "Rodrick",
+        "observer_lastname": "Ebert",
+        "place": {
+          "country": "El Salvador",
+          "city": "New Adrienne",
+          "climate": "Dry"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Wood Duck",
+    "family": "Anatidae",
+    "primary_color": "Brown",
+    "secondary_color": "Green",
+    "length": 19.0,
+    "wingspan": 28.0,
+    "weight": 1.0,
+    "SightingsList": [
+      {
+        "sighting_date": "2012-05-07T20:12:32",
+        "observer_firstname": "Gillian",
+        "observer_lastname": "Cruickshank",
+        "place": {
+          "country": "Bahamas",
+          "city": "Hoppehaven",
+          "climate": "Tropical"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Great Blue Heron",
+    "family": "Ardeidae",
+    "primary_color": "Blue",
+    "secondary_color": "Gray",
+    "length": 46.0,
+    "wingspan": 72.0,
+    "weight": 5.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2022-10-28T21:10:23",
+        "observer_firstname": "Felipe",
+        "observer_lastname": "Kunde",
+        "place": {
+          "country": "Guyana",
+          "city": "Lake Bell",
+          "climate": "Dry"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "White-crowned Sparrow",
+    "family": "Passerellidae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 7.5,
+    "wingspan": 8.75,
+    "weight": 0.8,
+    "SightingsList": [
+      {
+        "sighting_date": "2007-11-30T02:21:38",
+        "observer_firstname": "Yessenia",
+        "observer_lastname": "Vandervort",
+        "place": {
+          "country": "Botswana",
+          "city": "Pricefurt",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Great Horned Owl",
+    "family": "Strigidae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 18.5,
+    "wingspan": 25.0,
+    "weight": 2.2,
+    "SightingsList": [
+      {
+        "sighting_date": "2007-09-07T02:57:02",
+        "observer_firstname": "Catharine",
+        "observer_lastname": "Blick",
+        "place": {
+          "country": "Hungary",
+          "city": "Hartmannton",
+          "climate": "Tropical"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Yellow Warbler",
+    "family": "Parulidae",
+    "primary_color": "Yellow",
+    "secondary_color": "Green",
+    "length": 4.5,
+    "wingspan": 5.25,
+    "weight": 0.4,
+    "SightingsList": [
+      {
+        "sighting_date": "1980-11-14T22:24:31",
+        "observer_firstname": "Horace",
+        "observer_lastname": "Davis",
+        "place": {
+          "country": "Sierra Leone",
+          "city": "Austinmouth",
+          "climate": "Tropical"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Hooded Merganser",
+    "family": "Anatidae",
+    "primary_color": "Brown",
+    "secondary_color": "Black",
+    "length": 16.0,
+    "wingspan": 22.0,
+    "weight": 1.5,
+    "SightingsList": [
+      {
+        "sighting_date": "1994-09-19T11:36:55",
+        "observer_firstname": "Precious",
+        "observer_lastname": "Moore",
+        "place": {
+          "country": "British Indian Ocean Territory (Chagos Archipelago)",
+          "city": "North Chasityside",
+          "climate": "Continental"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "Sandhill Crane",
+    "family": "Gruidae",
+    "primary_color": "Gray",
+    "secondary_color": "Black",
+    "length": 44.0,
+    "wingspan": 60.0,
+    "weight": 6.2,
+    "SightingsList": [
+      {
+        "sighting_date": "2012-07-21T04:38:59",
+        "observer_firstname": "Trevor",
+        "observer_lastname": "Kohler",
+        "place": {
+          "country": "United Arab Emirates",
+          "city": "Lake Edmond",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Falcon",
+    "family": "Falconidae",
+    "primary_color": "Brown",
+    "secondary_color": "White",
+    "length": 45.0,
+    "wingspan": 85.0,
+    "weight": 1.0,
+    "SightingsList": [
+      {
+        "sighting_date": "2020-12-23T10:08:58",
+        "observer_firstname": "Edmund",
+        "observer_lastname": "Pouros",
+        "place": {
+          "country": "Dominica",
+          "city": "North Gladysburgh",
+          "climate": "Dry"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Smew",
+    "family": "Anatidae",
+    "primary_color": "White",
+    "secondary_color": "black",
+    "length": 40.0,
+    "wingspan": 60.0,
+    "weight": 0.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2008-06-16T08:39:17",
+        "observer_firstname": "Kirk",
+        "observer_lastname": "Satterfield",
+        "place": {
+          "country": "Oman",
+          "city": "Port Annabellburgh",
+          "climate": "Polar"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Wattle currasow",
+    "family": "Cracidae",
+    "primary_color": "black",
+    "secondary_color": "Red",
+    "length": 85.0,
+    "wingspan": 50.0,
+    "weight": 2.5,
+    "SightingsList": [
+      {
+        "sighting_date": "2011-06-24T14:43:16",
+        "observer_firstname": "Maximillian",
+        "observer_lastname": "Wiza",
+        "place": {
+          "country": "Iceland",
+          "city": "Bashirianmouth",
+          "climate": "Tropical"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  },
+  {
+    "name": "Curl-crested Aracari",
+    "family": "Ramphastidae",
+    "primary_color": "Black",
+    "secondary_color": "Orange",
+    "length": 44.0,
+    "wingspan": 36.0,
+    "weight": 0.22,
+    "SightingsList": [
+      {
+        "sighting_date": "1999-10-16T00:07:28",
+        "observer_firstname": "Kenyon",
+        "observer_lastname": "Padberg",
+        "place": {
+          "country": "Lebanon",
+          "city": "Arvidside",
+          "climate": "Tropical"
+        }
+      }
+    ],
+    "conservation_status": "Threatened",
+    "conservation_code": "TR"
+  },
+  {
+    "name": "White-cheeked turaco",
+    "family": "Musophagidae",
+    "primary_color": "Green",
+    "secondary_color": "Black",
+    "length": 40.0,
+    "wingspan": 30.0,
+    "weight": 0.24,
+    "SightingsList": [
+      {
+        "sighting_date": "1995-12-27T09:12:09",
+        "observer_firstname": "Katarina",
+        "observer_lastname": "Funk",
+        "place": {
+          "country": "Algeria",
+          "city": "East Eliezerfurt",
+          "climate": "Dry"
+        }
+      }
+    ],
+    "conservation_status": "Endangered",
+    "conservation_code": "EN"
+  }]

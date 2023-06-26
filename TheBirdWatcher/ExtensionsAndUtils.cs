@@ -6,7 +6,7 @@ public static class ExtensionsAndUtils
     public static void Add(this List<Bird>? birds)
     {
         birds.Add(Bird.AddBird());
-        File.WriteAllText("data.json",JsonConvert.SerializeObject(birds));
+        File.WriteAllText("data.json",JsonConvert.SerializeObject(birds,Formatting.Indented));
     }
     public static T RandomItem<T>(this List<T> items)
     {
