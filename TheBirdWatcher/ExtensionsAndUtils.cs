@@ -1,4 +1,5 @@
 ﻿namespace Testing;
+using StackExchange.Redis;
 
 public static class ExtensionsAndUtils
 {
@@ -6,7 +7,11 @@ public static class ExtensionsAndUtils
     public static void Add(this List<Bird>? birds)
     {
         birds.Add(Bird.AddBird());
-        File.WriteAllText("data.json",JsonConvert.SerializeObject(birds,Formatting.Indented));
+        ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("127.0.0.1:6379");
+        IDatabase db = redis.GetDatabase();
+        RedisValue[] birdValues = birds.Select(bird => (RedisValue)JsonConvert.SerializeObject(bird)).ToArray();
+        db.ListRightPush("birds", birdValues);
+        redis.Close();
     }
     public static T RandomItem<T>(this List<T> items)
     {

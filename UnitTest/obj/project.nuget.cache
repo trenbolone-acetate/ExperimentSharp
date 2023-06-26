@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ce9WaPz4l4enm+KsKmhUNMbgQPy90NLptQl1IX8LVxwLHGWNNex9lQRMNDnfukWkeF7HlblFP6McxinopEGm8Q==",
+  "dgSpecHash": "ZjzIYZv+FT1qk7Sls0PXverWEA/TA5cc60+ndErVOd5QrNdQBY8EmVwgH7UgdAiG7c5NHRvj29fic3HoQRORHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\User-PC\\Desktop\\sharpFun\\Testing\\Testing\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,9 @@
     "C:\\Users\\User-PC\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\User-PC\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
     "C:\\Users\\User-PC\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\User-PC\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
